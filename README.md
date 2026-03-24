@@ -1,4 +1,4 @@
-# 📦 Order Analysis & Return Factors
+# Order Analysis & Return Factors
 
 ## Project Goal
 Analyze order data to identify patterns and factors influencing returns.
